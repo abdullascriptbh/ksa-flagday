@@ -1,8 +1,9 @@
 # ksa-flagday
+
 <h1 align="center">Hi 👋, I'm AbdullaScript</h1>
 <h3 align="center">A passionate fullstack developer from Bahrain 🇧🇭</h3>
 
-- 🔭 I’m currently working on [multiple projects]
+- 🔭 I’m currently working on multiple projects here and there
 
 - 💬 Ask me about **reactjs, reactnative, nodejs, nginx etc...**
 
